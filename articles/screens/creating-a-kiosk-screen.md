@@ -16,6 +16,6 @@ We have collected guides to setup Kiosk on your screen(s) as quickly as possible
 
 Each guide ends with your screen displaying the Kiosk pairing screen
 
-![Screenshot](.screenshot1.png)
+![Screenshot](./screenshot1.png)
 
 To pair the screen with your Kiosk organisation - simply go to the screens overview in the CMS ([https://cms.kiosk.show/screens](https://cms.kiosk.show/screens)) and click the "Add Screen" button and input the pairing code.
