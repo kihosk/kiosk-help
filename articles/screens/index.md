@@ -8,3 +8,6 @@ You have an Amazon Fire Stick? Or a Fire TV? Start kiosking!
 
 ## [Put Kiosk on your Chromecast](./kiosk-on-chromecast)
 Have a Chromecast around? Hook it up with Kiosk and start the broadcast!
+
+## [Kiosk Screen on your iOS Device](./kiosk-on-ios)
+Get Kiosk running on an iPad or iPhone
