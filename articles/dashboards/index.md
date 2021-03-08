@@ -15,3 +15,6 @@ A quick guide for broadcasting your databox dashboard onto Kiosk CMS.
 
 ## [How to get a Klipfolio dashboard on to your wall with Kiosk](./klipfolio-dashboard-with-kiosk/index.md)
 A quick guide for broadcasting your databox dashboard onto Kiosk CMS.
+
+## [How to get a Cyfe dashboard on to your wall with Kiosk](./cyfe-dashboard-with-kiosk/index.md)
+A quick guide for broadcasting your Cyfe dashboard onto Kiosk CMS.
