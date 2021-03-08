@@ -30,3 +30,26 @@
   padding: 2rem 0rem;
   margin: 0 auto;
 }
+
+.main-content iframe {
+  width: 100% !important;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+.paper {
+  background-color: white;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 30px;
+  position: relative;
+  z-index: 3;
+  text-decoration: none;
+  overflow: hidden;
+  width: 100%;
+  display: block;
+  outline: none;
+  box-shadow: 0 3px 8px 0 rgb(0 0 0 / 3%);
+}
