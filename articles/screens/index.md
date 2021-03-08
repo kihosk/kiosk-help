@@ -17,3 +17,6 @@ Get Kiosk running on an iPad or iPhone
 
 ## [Put Kiosk on your Raspberry Pi](./kiosk-on-raspberry-pi)
 Have a Raspberry Pi lying around? Install our custom image and hook it up to a TV and you are off to the races
+
+## [Kiosk on an Android TV](./kiosk-on-android-tv)
+Get Kiosk running on a TV with Android TV
