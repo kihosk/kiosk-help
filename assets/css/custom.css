@@ -7,11 +7,13 @@
 
 .page-header .main-content h1 {
   color: white;
-  margin-top: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 40px;
 }
 
 .page-header .logo {
-  max-width: 360px;
+  max-width: 200px;
 }
 
 .main-content h1,
