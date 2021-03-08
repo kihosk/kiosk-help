@@ -7,5 +7,8 @@ Make your dashboards more visible by putting them on a screen on the wall in you
 ## [How to get your Geckoboard dashboard on to your wall with Kiosk](./geckoboard-dashboard-with-kiosk/index.md)
 A quick guide for broadcasting your Geckoboard onto Kiosk CMS.
 
-## How to get a Datapine dashboard on to your wall with Kiosk
+## [How to get a Datapine dashboard on to your wall with Kiosk](./datapine-dashboard-with-kiosk/index.md)
 A quick guide for broadcasting your Datapine dashboard onto Kiosk CMS.
+
+## [How to get a databox dashboard on to your wall with Kiosk](./databox-dashboard-with-kiosk/index.md)
+A quick guide for broadcasting your databox dashboard onto Kiosk CMS.

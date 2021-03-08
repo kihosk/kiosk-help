@@ -6,7 +6,7 @@
 Already using Geckoboard? Then you know the advantages of using digital content and screens to communicate with your office. Kiosk makes it possible for you to keep your dashboard on the wall and get more information across at the same time.
 
 
-<div style="text-align: center">
+<br />
 
 **Want to celebrate a new achievement? [Post an office wide announcement](https://cms.kiosk.show/public-show/TsIBsaTjGWEeUTNwlQZSnsp62BTFIFFFk0dGFqFc)**
 
@@ -14,7 +14,7 @@ Already using Geckoboard? Then you know the advantages of using digital content 
 
 **New to Kiosk? [Read more about how to setup your first Kiosk screen.](../../screens/creating-a-kiosk-screen/index.md)**
 
-</div>
+<br />
 
 Geckoboard has a "public url" function you can find by clicking on the share button in the upper right of your dashboard. In the screen that pops up, click the menu button on the right and select copy. You can then click anywhere outside the window to minimize it. After you've found and copied the link, head on over to your Kiosk page. 
 
