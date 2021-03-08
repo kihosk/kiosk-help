@@ -8,8 +8,8 @@
 .page-header .main-content h1 {
   color: white;
   margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 40px;
+  margin-bottom: 0;
+  font-size: 35px;
 }
 
 .page-header .logo {
