@@ -24,3 +24,9 @@
 .main-content h6 {
   color: #3a3c4c;
 }
+
+.main-content {
+  max-width: 640px;
+  padding: 2rem 0rem;
+  margin: 0 auto;
+}

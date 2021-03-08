@@ -12,3 +12,6 @@ A quick guide for broadcasting your Datapine dashboard onto Kiosk CMS.
 
 ## [How to get a databox dashboard on to your wall with Kiosk](./databox-dashboard-with-kiosk/index.md)
 A quick guide for broadcasting your databox dashboard onto Kiosk CMS.
+
+## [How to get a Klipfolio dashboard on to your wall with Kiosk](./klipfolio-dashboard-with-kiosk/index.md)
+A quick guide for broadcasting your databox dashboard onto Kiosk CMS.
