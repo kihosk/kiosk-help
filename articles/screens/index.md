@@ -11,3 +11,8 @@ Have a Chromecast around? Hook it up with Kiosk and start the broadcast!
 
 ## [Kiosk Screen on your iOS Device](./kiosk-on-ios)
 Get Kiosk running on an iPad or iPhone
+
+## [The Kiosk dongle](./the-kiosk-dongle)
+The easiest way to get Kiosk up on a wall is the Kiosk dongle
+
+
