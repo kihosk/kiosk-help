@@ -8,9 +8,11 @@ Already using Geckoboard? Then you know the advantages of using digital content 
 
 <div style="text-align: center">
 
-### Want to celebrate a new achievement? [Post an office wide announcement](https://cms.kiosk.show/public-show/TsIBsaTjGWEeUTNwlQZSnsp62BTFIFFFk0dGFqFc).
-### Is it your favorite colleague's birthday? [Let them know you care!](https://cms.kiosk.show/public-show/6RpldDIaVNM1UQLLkA8gnp4aGXnUcljsQpeiU5fg)
-### New to Kiosk? [Read more about how to setup your first Kiosk screen.](../../screens/creating-a-kiosk-screen/index.md)
+**Want to celebrate a new achievement? [Post an office wide announcement](https://cms.kiosk.show/public-show/TsIBsaTjGWEeUTNwlQZSnsp62BTFIFFFk0dGFqFc)**
+
+**Is it your favorite colleague's birthday? [Let them know you care!](https://cms.kiosk.show/public-show/6RpldDIaVNM1UQLLkA8gnp4aGXnUcljsQpeiU5fg)**
+
+**New to Kiosk? [Read more about how to setup your first Kiosk screen.](../../screens/creating-a-kiosk-screen/index.md)**
 
 </div>
 
