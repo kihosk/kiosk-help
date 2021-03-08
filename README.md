@@ -2,5 +2,5 @@
 A collection og guides of how to turn connect any kind of screen to Kiosk
 
 ## [Dashboards on Kiosk](articles/dashboards)
-The easisest way to get your dashboard up on the wall
+The easiest way to get your dashboard up on the wall
 

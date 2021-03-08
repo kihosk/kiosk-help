@@ -1,4 +1,6 @@
 # Setting up a Kiosk Screen
+The easiest way to get your dashboard up on the wall
+
 
 ## [The Kiosk dongle](./the-kiosk-dongle)
 The easiest way to get Kiosk up on a wall is the Kiosk dongle
