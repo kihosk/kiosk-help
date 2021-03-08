@@ -26,8 +26,8 @@
 }
 
 .main-content {
-  max-width: 640px;
-  padding: 2rem 0rem;
+  max-width: 700px;
+  padding: 2rem 30px;
   margin: 0 auto;
 }
 
@@ -60,19 +60,4 @@ h1 {
 
 h2 {
   font-size: 1.3em;
-}
-
-.paper {
-  background-color: white;
-  border: 1px solid transparent;
-  border-radius: 4px;
-  padding: 30px;
-  position: relative;
-  z-index: 3;
-  text-decoration: none;
-  overflow: hidden;
-  width: 100%;
-  display: block;
-  outline: none;
-  box-shadow: 0 3px 8px 0 rgb(0 0 0 / 3%);
 }
