@@ -10,7 +10,7 @@ If you have a smart tv with Android TV you can install our native Android app on
 1. Install the Kiosk TV app
 1. Now you can launch the Kiosk TV app
 
-<a href="https://apps.apple.com/us/app/kiosk-screen/id1540945918" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=show.kiosk.app" target="_blank">
     ![screenshot](./androidtv.jpg)
 </a>
 

@@ -20,3 +20,6 @@ Have a Raspberry Pi lying around? Install our custom image and hook it up to a T
 
 ## [Kiosk on an Android TV](./kiosk-on-android-tv)
 Get Kiosk running on a TV with Android TV
+
+## [Kiosk screen on your Android device](./kiosk-on-android)
+Turn your Android tablet or phone into a Kiosk screen
