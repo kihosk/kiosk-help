@@ -4,15 +4,15 @@
 
 We have collected guides to setup Kiosk on your screen(s) as quickly as possible. Go to the guide for the device you are trying to setup Kiosk on:
 
-- Browser - Kiosk can run in a tab in any modern browser
-- iOS - Kiosk runs natively on both iPhone and iPad
-- Android - Kiosk runs on Android phones and tablets
-- TV (Android) - Kiosk runs on Android TV
-- TV (Fire TV) - Kiosk can run on Amazon Fire TV devices
+- [Browser - Kiosk can run in a tab in any modern browser](./../turn-your-browser-into-kiosk-screen/index.md)
+- [iOS - Kiosk runs natively on both iPhone and iPad](./../kiosk-on-ios/index.md)
+- [Android - Kiosk runs on Android phones and tablets](./../kiosk-on-android/index.md)
+- [TV (Android) - Kiosk runs on Android TV](./../kiosk-on-android-tv/index.md)
+- [TV (Fire TV) - Kiosk can run on Amazon Fire TV devices](./../kiosk-on-amazon-fire-tv/index.md)
 - TV (other) - Kiosk can run on any SmartTV with a browser
-- Raspberry Pi - Run our custom Kiosk image for the Pi
-- Kiosk Dongle - you have purchased a Kiosk dongle
-- Chromecast - you can broadcast Kiosk content to your Chromecast
+- [Raspberry Pi - Run our custom Kiosk image for the Pi](./../kiosk-on-raspberry-pi/index.md)
+- [Kiosk Dongle - you have purchased a Kiosk dongle](./../the-kiosk-dongle/index.md)
+- [Chromecast - you can broadcast Kiosk content to your Chromecast](./../kiosk-on-chromecast/index.md)
 
 Each guide ends with your screen displaying the Kiosk pairing screen
 

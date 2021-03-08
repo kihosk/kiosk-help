@@ -2,7 +2,7 @@
 
 Make your dashboards more visible by putting them on a screen on the wall in your office. Only a few steps with Kiosk
 
-So you created a dashboard with all the important KPIs for you and your team and it looks amazing. Now you want to give it maximum visibility! Of course you can view it in a browser and share it with you colleagues their. But the most visibility you can create is by getting it up on a wall in your office. Kiosk let's you do this in the easiest way possible. [Read more about how to setup your first Kiosk screen](https://help.kiosk.show/en/articles/4671098-creating-a-kiosk-screen).
+So you created a dashboard with all the important KPIs for you and your team and it looks amazing. Now you want to give it maximum visibility! Of course you can view it in a browser and share it with you colleagues their. But the most visibility you can create is by getting it up on a wall in your office. Kiosk let's you do this in the easiest way possible. [Read more about how to setup your first Kiosk screen](../../screens/creating-a-kiosk-screen/index.md).
 
 
 Follow our guides for popular dashboard providers:
