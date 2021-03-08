@@ -12,7 +12,7 @@ Guide to setting up any screen as a Kiosk Screen
 
 ---
 
-## [Kiosk on Amazon Fire TV](./kiosk-on-amazong-fire-tv)
+## [Kiosk on Amazon Fire TV](./kiosk-on-amazon-fire-tv)
 You have an Amazon Fire Stick? Or a Fire TV? Start kiosking!
 
 ---
