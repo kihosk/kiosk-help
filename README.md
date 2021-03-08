@@ -1,6 +1,6 @@
 # Advice and answers from the Kiosk Team
 
-## [Setting up a Kiosk Screen](articles/screens/index)
+## [Setting up a Kiosk Screen](articles/screens)
 A collection og guides of how to connect any kind of screen to Kiosk
 
 --- 
