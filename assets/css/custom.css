@@ -5,6 +5,11 @@
   padding: 0;
 }
 
+.page-header .main-content {
+  display: flex;
+  justify-content: space-between;
+}
+
 .page-header .main-content h1 {
   color: white;
   margin-top: 10px;
