@@ -23,3 +23,6 @@ Get Kiosk running on a TV with Android TV
 
 ## [Kiosk screen on your Android device](./kiosk-on-android)
 Turn your Android tablet or phone into a Kiosk screen
+
+## [Turn your browser into a Kiosk Screen](./turn-your-browser-into-kiosk-screen)
+One simple step to turn your browser tab into a Kiosk Screen
