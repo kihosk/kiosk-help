@@ -92,6 +92,10 @@ footer .social-links {
   justify-content: center;
 }
 
+footer .social-links a {
+  margin: 10px 5px;
+}
+
 footer svg {
   width: 16px;
   height: 16px;
