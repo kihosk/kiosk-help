@@ -7,9 +7,11 @@ Already using Geckoboard? Then you know the advantages of using digital content 
 
 
 <div style="text-align: center">
+
 ### Want to celebrate a new achievement? [Post an office wide announcement](https://cms.kiosk.show/public-show/TsIBsaTjGWEeUTNwlQZSnsp62BTFIFFFk0dGFqFc).
 ### Is it your favorite colleague's birthday? [Let them know you care!](https://cms.kiosk.show/public-show/6RpldDIaVNM1UQLLkA8gnp4aGXnUcljsQpeiU5fg)
 ### New to Kiosk? [Read more about how to setup your first Kiosk screen.](../../screens/creating-a-kiosk-screen/index.md)
+
 </div>
 
 Geckoboard has a "public url" function you can find by clicking on the share button in the upper right of your dashboard. In the screen that pops up, click the menu button on the right and select copy. You can then click anywhere outside the window to minimize it. After you've found and copied the link, head on over to your Kiosk page. 
