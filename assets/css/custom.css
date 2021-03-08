@@ -35,8 +35,31 @@
   width: 100% !important;
 }
 
+.main-content p {
+  margin-bottom: 1em;
+  margin-top: 0.4em;
+}
+
+.main-content h2 {
+  margin-bottom: 0;
+}
+
+.main-content hr {
+  margin: 2rem 0;
+  height: 1px;
+}
+
+.main-content a {
+  color: #040a20;
+  text-decoration: underline;
+}
+
 h1 {
   font-size: 1.8em;
+}
+
+h2 {
+  font-size: 1.3em;
 }
 
 .paper {
