@@ -7,11 +7,11 @@ So you created a dashboard with all the important KPIs for you and your team and
 
 Follow our guides for popular dashboard providers:
 
-- [How to get your Geckoboard dashboard on to your wall with Kiosk](./../geckoboard-dashboard-with-kiosk/index.md)
-- How to get a Klipfolio dashboard on to your wall with Kiosk
-- How to get a Cyfe dashboard on to your wall with Kiosk
-- How to get a databox dashboard on to your wall with Kiosk
-- How to get a Datapine dashboard on to your wall with Kiosk
+- [How to get your Geckoboard dashboard on to your wall with Kiosk](../geckoboard-dashboard-with-kiosk/index.md)
+- [How to get a Klipfolio dashboard on to your wall with Kiosk](../klipfolio-dashboard-with-kiosk/index.md)
+- [How to get a Cyfe dashboard on to your wall with Kiosk](../cyfe-dashboard-with-kiosk/index.md)
+- [How to get a databox dashboard on to your wall with Kiosk](../databox-dashboard-with-kiosk/index.md)
+- [How to get a Datapine dashboard on to your wall with Kiosk](../datapine-dashboard-with-kiosk/index.md)
 
 Then simply create a new show - and add a slide with the "Any Website" template. This allows you to to show any website from the internet on your Kiosk screen. All dashboard services have a "public url" feature which allows you to share a link to your dashboard with anyone online. You just need to find the url and put it into the "Any Website" template and you are off to the races. 
 
