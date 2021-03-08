@@ -1,5 +1,8 @@
 # Setting up a Kiosk Screen
 
+## [The Kiosk dongle](./the-kiosk-dongle)
+The easiest way to get Kiosk up on a wall is the Kiosk dongle
+
 ## [Creating a Kiosk Screen](./creating-a-kiosk-screen)
 Guide to setting up any screen as a Kiosk Screen
 
@@ -12,7 +15,5 @@ Have a Chromecast around? Hook it up with Kiosk and start the broadcast!
 ## [Kiosk Screen on your iOS Device](./kiosk-on-ios)
 Get Kiosk running on an iPad or iPhone
 
-## [The Kiosk dongle](./the-kiosk-dongle)
-The easiest way to get Kiosk up on a wall is the Kiosk dongle
-
-
+## [Put Kiosk on your Raspberry Pi](./kiosk-on-raspberry-pi)
+Have a Raspberry Pi lying around? Install our custom image and hook it up to a TV and you are off to the races
